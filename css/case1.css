@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.hero img{
+    position: absolute;
+    top:22%;
+    left: 80%;
+    width: 18%;
+}
+.hero h3{
+    display: flex;
+    padding: 0 0 10px 20px;
+    font-size: 35px;
+}
+.hero p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.hero1 h2{
+    display: flex;
+    padding: 0 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 500;
+}
+.hero1 img{
+    position: absolute;
+    top: 130%;
+    left: 80%;
+    width: 18%;
+}
+.hero1 h3{
+    display: flex;
+    padding: 0 0 10px 20px;
+    font-size: 35px;
+}
+.hero1 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.hero3 img{
+    position: absolute;
+    top: 89%;
+    left: 80%;
+    width: 18%;
+    
+}
+.hero2 h2{
+    display: flex;
+    padding: 0 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 500;
+}
+.hero2 img{
+    position: absolute;
+    top: 160%;
+    left: 80%;
+    width: 18%;
+    height: 35%;
+}
+.hero2 h3{
+    display: flex;
+    padding: 0 0 10px 20px;
+    font-size: 35px;
+}
+.hero2 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+
+.case2 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.case2 h3{
+    display: flex;
+    padding: 0 370px 10px 20px;
+    font-size: 30px;
+}
+.case2 ul{
+    display: inline-block;
+    padding: 5px 370px 5px 40px;
+    font-size: 25px;
+}
+.case2 p{
+    display: flex;
+    padding: 0 9px 20px 20px;
+    font-size: 25px;
+}
+.case2 img{
+    display: flex;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    height: 40%;
+}

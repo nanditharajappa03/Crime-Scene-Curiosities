@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.case1 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.case1 p{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 25px;
+}
+.case1 h3{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 30px;
+}
+.case1 img{
+    display: flex;
+    padding-left: 20px;
+    width: 550px;
+}
+
+.case2 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.case2 h3{
+    display: flex;
+    padding: 0 370px 5px 20px;
+    font-size: 30px;
+}
+.case2 ul{
+    display: inline-block;
+    padding: 5px 370px 5px 40px;
+    font-size: 25px;
+}
+.case2 h4{
+    font-size: 25px;
+}
+.caseA{
+    position: absolute;
+    top: 290%;
+    left: 80%;
+    width: 18%;
+    height: 30%;
+}
+.caseB{
+    position: absolute;
+    top: 323%;
+    left: 80%;
+    width: 18%;
+    
+}
+.caseC{
+    position: absolute;
+    top: 350%;
+    left: 80%;
+    width: 18%;
+}
+.caseD{
+    position: absolute;
+    top: 375%;
+    left: 80%;
+    width: 18%;
+}
+.caseE{
+    position: absolute;
+    top: 410%;
+    left: 80%;
+    width: 18%;
+}
+.caseF{
+    position: absolute;
+    top: 440%;
+    left: 80%;
+    width: 18%;
+}
+
+.case3 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.case3 img{
+    display: flex;
+    padding: 20px 0 20px 20px;
+    width: 35%;
+    height: 35%;
+}
+.case3 p{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 25px;
+}

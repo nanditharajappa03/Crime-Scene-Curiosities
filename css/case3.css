@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero1 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.hero1 img{
+    position: absolute;
+    top:15%;
+    left: 80%;
+    width: 18%;
+}
+.hero1 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.hero2 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.hero2 img{
+    position: absolute;
+    top:80%;
+    left: 80%;
+    width: 18%;
+}
+.hero2 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.hero3 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.hero3 img{
+    position: absolute;
+    top:115%;
+    left: 80%;
+    width: 18%;
+}
+.hero3 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.hero4 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.hero4 img{
+    position: absolute;
+    top:150%;
+    left: 80%;
+    width: 18%;
+}
+.hero4 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.hero5{
+    position: absolute;
+    top:195%;
+    left: 80%;
+    width: 18%;
+}
+.hero6{
+    position: absolute;
+    top: 238%;
+    left: 80%;
+    width: 18%;
+}
+
+.case2 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.case2 p{
+    display: flex;
+    padding: 0 370px 20px 20px;
+    font-size: 25px;
+}
+.case2 h3{
+    display: flex;
+    padding: 0 0 20px 20px;
+    font-size: 35px;
+}
+.caseA{
+    position: absolute;
+    top: 280%;
+    left: 80%;
+    width: 18%;
+}
+.caseB{
+    position: absolute;
+    top:338%;
+    left: 80%;
+    width: 18%;
+}
+.caseC{
+    position: absolute;
+    top:365%;
+    left: 80%;
+    width: 18%;
+}
+.caseD{
+    position: absolute;
+    top: 395%;
+    left: 80%;
+    width: 18%;
+}
+.caseE{
+    position: absolute;
+    top:445%;
+    left: 80%;
+    width: 18.9%;
+    height: 40%;
+}
+.caseF{
+    position: absolute;
+    top: 495%;
+    left: 80%;
+    width: 18%;
+    height: 35%;
+}
+
+.case3 h2{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.case3 h3{
+    display: flex;
+    padding: 10px 370px 10px 20px;
+    font-size: 30px;
+}
+
+.case3 img{
+    display: flex;
+    padding: 20px 0 20px 20px;
+    width: 35%;
+    height: 35%;
+}
+.case3 p{
+    display: flex;
+    padding: 10px 0 20px 20px;
+    font-size: 25px;
+}

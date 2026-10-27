@@ -1,0 +1,202 @@
+.title {
+    font-size: 3.5rem;
+    color: #444;
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    color: #000;
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.sub {
+    font-size: 2.5rem;
+    color: #444;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+/* overview */
+.abt {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px auto;
+}
+
+
+.info {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.about-image {
+    flex: 1;
+    margin-right: 40px;
+    overflow: hidden;
+}
+
+.about-image video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+
+}
+
+.about-inform {
+    flex: 1;
+}
+
+.about-inform h2 {
+    font-size: 35px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.about-inform p {
+    font-size: 28px;
+    line-height: 1.5;
+    color: #3f3f3f;
+}
+
+.tech {
+    font-size: 25px;
+    color: #000;
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.card {
+    width: 325px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.para {
+    padding: 16px;
+}
+
+.para h1 {
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+.para p {
+    font-size: 20px;
+    color: #3f3f3f;
+    line-height: 1.3;
+}
+
+.scenario {
+    font-size: 25px;
+    text-align: center;
+}
+
+.scene {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.scene-image {
+    flex: 1;
+    margin-right: 40px;
+    overflow: hidden;
+}
+
+.scene-image img {
+    max-width: 75%;
+    height: auto;
+    display: block;
+}
+
+.scene-image1 {
+    flex: 1;
+    margin-left: 40px;
+    overflow: hidden;
+}
+
+.scene-image1 img {
+    max-width: 75%;
+    height: auto;
+    display: block;
+}
+
+.scene-inform {
+    flex: 1;
+}
+
+.scene-inform h2 {
+    font-size: 35px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.scene-inform p {
+    font-size: 28px;
+    line-height: 1.5;
+    color: #3f3f3f;
+}
+
+.contact-container{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.contact-left{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 15px;
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    padding: 13px 20px;
+    border: 6px;
+    background: blue;
+    border-radius: 10px;
+    color:white;
+    font-size: 40px;
+    font-weight: 700;
+    margin-right: 20px;
+}
+  
+.story p{
+    flex: 1;
+    margin-right: 30px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #3f3f3f;
+}
